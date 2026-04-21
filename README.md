@@ -8,6 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Oscarromeoaid-black?style=for-the-badge&logo=github)](https://github.com/Oscarromeoaid)
 [![Email](https://img.shields.io/badge/Email-oscar.aidam@lomebs.com-black?style=for-the-badge&logo=gmail)](mailto:oscar.aidam@lomebs.com)
+[![Email](https://img.shields.io/badge/Email-oscar.aidam@lomebs.com-black?style=for-the-badge&logo=gmail)](mailto:oscarromeoaidam@gmail.com)
 
 </div>
 
